@@ -9,4 +9,5 @@ while n > 0:
 
 print(*arr)
 
-arr = ['nihad','elvin','ismayil', 2, 3, 5, 6, 4,]
+#'geleceyin proqramcisi sen ol!'
+
